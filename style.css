@@ -1,0 +1,38 @@
+.navbar-brand img{
+    height: 100px;
+}
+
+.carousel-item img{
+    height: 600px;
+    object-fit: cover;
+}
+.img-fluid{
+    height: 210px !important;
+    object-fit: cover;
+    width: 100%;
+}
+.titulo{
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 5px 0;
+}
+
+.p img{
+    margin-top: 20px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.cliente{
+    background-color:rgb(191, 212, 3);
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
